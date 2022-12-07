@@ -10,4 +10,3 @@ elif (operation=="3"):
     print("the result of multiplication is ",x*y)
 elif (operation == "4"):
     print("the result of division is ",x/y)
-    
